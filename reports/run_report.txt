@@ -1,0 +1,8 @@
+Task: Classification
+Target column: churn
+Best model: LogisticRegression
+Key metrics:
+  - Accuracy: 1.0000
+  - Weighted F1: 1.0000
+
+Business use: This model can be used to automatically classify outcomes for new records, helping teams take faster actions (e.g., churn prevention, risk flags, approvals).

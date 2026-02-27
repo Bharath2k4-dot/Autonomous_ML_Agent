@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-27T22:37:29.479340",
+  "data_path": "data/sample.csv",
+  "target": "churn",
+  "task_type": "classification",
+  "candidate_scores": {
+    "LogisticRegression": {
+      "accuracy": 1.0,
+      "f1": 1.0
+    },
+    "RandomForestClassifier": {
+      "accuracy": 1.0,
+      "f1": 1.0
+    },
+    "GradientBoostingClassifier": {
+      "accuracy": 1.0,
+      "f1": 1.0
+    }
+  },
+  "best_model": "LogisticRegression",
+  "best_metrics": {
+    "accuracy": 1.0,
+    "f1": 1.0
+  }
+}

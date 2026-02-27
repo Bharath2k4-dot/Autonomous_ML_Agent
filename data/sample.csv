@@ -1,0 +1,11 @@
+age,tenure,monthly_charges,contract_type,churn
+22,3,350,monthly,1
+35,24,799,yearly,0
+44,12,599,monthly,1
+29,8,450,monthly,0
+51,40,899,yearly,0
+39,18,699,monthly,1
+27,6,399,monthly,1
+48,30,850,yearly,0
+33,15,620,monthly,0
+60,55,950,yearly,0
